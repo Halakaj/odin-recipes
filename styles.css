@@ -1,0 +1,12 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: small;
+}
+#main{
+    background-color: aliceblue;
+    font-weight: 800;
+}
+.lagasna{
+    font-size: large;
+}
+
